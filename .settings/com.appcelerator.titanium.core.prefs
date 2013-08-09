@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+provisioning_profiles/development/204C89A0-134D-4C6B-BAB2-748AAD264E41/appid=*
+provisioning_profiles/development/204C89A0-134D-4C6B-BAB2-748AAD264E41/name=iOS Team Provisioning Profile\: DroHost
+provisioning_profiles/development/204C89A0-134D-4C6B-BAB2-748AAD264E41/uuid=204C89A0-134D-4C6B-BAB2-748AAD264E41
+provisioning_profiles/development/2D15F49E-4355-4D88-B19A-98D50014155A/appid=com.droisys.k
+provisioning_profiles/development/2D15F49E-4355-4D88-B19A-98D50014155A/name=K
+provisioning_profiles/development/2D15F49E-4355-4D88-B19A-98D50014155A/uuid=2D15F49E-4355-4D88-B19A-98D50014155A
+provisioning_profiles/development/3B8FD9FD-3B40-45C6-9DBC-12C8C406B864/appid=*
+provisioning_profiles/development/3B8FD9FD-3B40-45C6-9DBC-12C8C406B864/name=iOS Team Provisioning Profile\: DroHost
+provisioning_profiles/development/3B8FD9FD-3B40-45C6-9DBC-12C8C406B864/uuid=3B8FD9FD-3B40-45C6-9DBC-12C8C406B864
+provisioning_profiles/development/6660B913-1717-44A2-8076-2134DE602F04/appid=com.droisys.common.unityInApp
+provisioning_profiles/development/6660B913-1717-44A2-8076-2134DE602F04/name=unityInApp
+provisioning_profiles/development/6660B913-1717-44A2-8076-2134DE602F04/uuid=6660B913-1717-44A2-8076-2134DE602F04
+provisioning_profiles/development/6AE6BCB6-A647-4F3A-A974-AC57E5A2C7BC/appid=com.droisys.appsidekick
+provisioning_profiles/development/6AE6BCB6-A647-4F3A-A974-AC57E5A2C7BC/name=AppsideKick Pushnotification
+provisioning_profiles/development/6AE6BCB6-A647-4F3A-A974-AC57E5A2C7BC/uuid=6AE6BCB6-A647-4F3A-A974-AC57E5A2C7BC
